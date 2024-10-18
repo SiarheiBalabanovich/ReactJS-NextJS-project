@@ -26,4 +26,3 @@ For more information on how to deploy, check out the deployment guide [Next.js d
 ## Learning More:
 If you'd like to dive deeper into Next.js, you can check out the official [Next.js Documentation](https://nextjs.org/docs) documentation to explore all of its features and APIs.
 For a hands-on learning experience, try [Learn Next.js](https://nextjs.org/learn) interactive tutorial.
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
